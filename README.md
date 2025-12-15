@@ -58,7 +58,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-Visit: `http://localhost:8000`
+Visit: `http://localhost:8080`
 
 ## Default Login Credentials
 
@@ -75,9 +75,6 @@ Visit: `http://localhost:8000`
 - **rooms** - Stores room information
 - **bookings** - Stores all reservations
 
-## Screenshots
-
-(Add screenshots here)
 
 ## License
 
